@@ -196,7 +196,7 @@
 				TargetAttributes = {
 					BED9F2B91F4C4B00009BAE3F = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = CH9AS7TVGX;
+						DevelopmentTeam = 65TAZ24A26;
 						ProvisioningStyle = Automatic;
 					};
 					BED9F2D01F4C4B00009BAE3F = {
@@ -419,7 +419,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = CH9AS7TVGX;
+				DEVELOPMENT_TEAM = 65TAZ24A26;
 				INFOPLIST_FILE = HabitDiary/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yoctoworks.HabitDiary;
@@ -432,7 +432,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = CH9AS7TVGX;
+				DEVELOPMENT_TEAM = 65TAZ24A26;
 				INFOPLIST_FILE = HabitDiary/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yoctoworks.HabitDiary;
@@ -518,6 +518,7 @@
 				BED9F2E71F4C4B00009BAE3F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BED9F2E81F4C4B00009BAE3F /* Build configuration list for PBXNativeTarget "HabitDiaryTests" */ = {
 			isa = XCConfigurationList;
@@ -526,6 +527,7 @@
 				BED9F2EA1F4C4B00009BAE3F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BED9F2EB1F4C4B00009BAE3F /* Build configuration list for PBXNativeTarget "HabitDiaryUITests" */ = {
 			isa = XCConfigurationList;
@@ -534,6 +536,7 @@
 				BED9F2ED1F4C4B00009BAE3F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
