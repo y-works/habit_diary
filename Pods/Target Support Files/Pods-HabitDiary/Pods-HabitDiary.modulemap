@@ -1,0 +1,6 @@
+framework module Pods_HabitDiary {
+  umbrella header "Pods-HabitDiary-umbrella.h"
+
+  export *
+  module * { export * }
+}
